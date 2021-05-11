@@ -3098,6 +3098,7 @@
         },
         {
             "name": "symfony/mime",
+
             "version": "v5.1.5",
             "source": {
                 "type": "git",
@@ -3892,6 +3893,7 @@
                 "portable",
                 "shim"
             ],
+
             "funding": [
                 {
                     "url": "https://symfony.com/sponsor",
@@ -3968,6 +3970,7 @@
                 "portable",
                 "shim"
             ],
+
             "funding": [
                 {
                     "url": "https://symfony.com/sponsor",
@@ -4004,6 +4007,7 @@
             "type": "library",
             "extra": {
                 "branch-alias": {
+
                     "dev-master": "1.18-dev"
                 },
                 "thanks": {
@@ -4048,6 +4052,7 @@
                 "portable",
                 "shim"
             ],
+
             "funding": [
                 {
                     "url": "https://symfony.com/sponsor",
